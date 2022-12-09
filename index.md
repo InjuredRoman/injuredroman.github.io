@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "Hello, I'm Roman"
+landing-title: "Hey! I'm Roman"
 description: null
 image: 'assets/images/water-unsplash.png'
 author: null
