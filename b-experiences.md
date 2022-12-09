@@ -2,7 +2,7 @@
 title: Experiences
 layout: landing
 description: "Places I've worked, and the things I've done there"
-# image: assets/images/sandcastle-unsplash.jpg
+image: assets/images/seattle-unsplash.jpg
 nav-menu: true
 ---
 

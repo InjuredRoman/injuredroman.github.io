@@ -2,7 +2,7 @@
 layout: landing
 title: Projects
 description: Stuff I've done outside of work
-# image: assets/images/tree-unsplash.jpg
+image: assets/images/yosemite-unsplash.jpg
 nav-menu: true
 ---
 

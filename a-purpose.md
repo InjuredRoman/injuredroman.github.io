@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Purpose
-# image: assets/images/sapling-unsplash.jpg
+image: assets/images/simi-unsplash.jpg
 nav-menu: true
 ---
 <section id="one">
