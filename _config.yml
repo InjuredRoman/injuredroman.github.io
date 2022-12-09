@@ -2,14 +2,14 @@
 title: Roman
 subtitle: Engineer
 email: roman.a.kaufman@gmail.com
-description: I'm interested in sustainability.
+description: Interested in building sustainably.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: WQED Northumberland St.
+city: Pittsburgh
+state: PA
+zip_code: 15213
 country: United States of America
 phone: (818) 203-2045
 
