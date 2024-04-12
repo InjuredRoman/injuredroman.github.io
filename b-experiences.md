@@ -13,15 +13,28 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Auton Lab, Carnegie Mellon Robotics Institute | Research Programmer</h2>
+			<h2>Student | Masters of Robotics Systems Development</h2>
+			<h4>Carnegie Mellon Robotics Institute</h4>
 		</header>
-		<h5> Mar 2021 - Present </h5>
-		<p> With the (incredible) <a href="https://autonlab.org/" target="_blank">Auton Lab</a> I've had the pleasure to work with University of Pittsburgh Medical Center clinicians, Allegheny County health officials, and folks internal to our lab. As a partner-facing engineer my tasks vary - applying state of the art machine learning to solve problems, often in collaboration with domain experts; full stack web development when we need it; and presenting our work to collaborators as well as giving interviews and corresponding feedback for prospective new hires.</p>
+		<h5> August 2023 - Present </h5>
+		<p> There's no place I'd rather be. </p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
+	<section>
+	<a href="generic.html" class="image">
+		<img src="{% link assets/images/RI_logo.svg %}" alt="" data-position="center center" />
+	</a>
+	<div class="inner">
+		<header class="major">
+			<h2>Auton Lab, Carnegie Mellon Robotics Institute | Research Programmer</h2>
+		</header>
+		<h5> Mar 2021 - August 2023 </h5>
+		<p> With the (incredible) <a href="https://autonlab.org/" target="_blank">Auton Lab</a> I had the pleasure to work with University of Pittsburgh Medical Center clinicians, Allegheny County health officials, and folks internal to our lab. As a partner-facing engineer my tasks varied - applying state of the art machine learning to solve problems, often in collaboration with domain experts; full stack web development when we needed it; and presenting our work to collaborators as well as giving interviews and corresponding feedback for prospective new hires (project scientists and programmers).</p>
+	</div>
+	</section>
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/microsoft-unsplash.jpg %}" alt="" data-position="center center" />
@@ -32,7 +45,7 @@ nav-menu: true
 					<h3>Microsoft, Core OS | Software Engineer</h3>
 				</header>
 				<h5> Aug 2019 - Sep 2020 </h5>
-				<p>Software engineer within the location team, informing over 1 billion devices where they are in the world. Built up our end-to-end testing suite, covering over 80% of our API surface. Led an investigation into power optimization possibilities, a hairy business with generations of Windows code and power optimizations to wade through. And built some custom software for us to test a custom IoT solution. A joy, but wished to move closer to robotics and AI.</p>
+				<p>Software engineer within the location team, informing over 1 billion devices where they are in the world. Built up our end-to-end testing suite, covering over 80% of our API surface. Led an investigation into power optimization possibilities, a hairy business with generations of Windows code and power optimizations to wade through. And built some custom software for us to test a custom IoT solution. A joy, but wished to move closer to robotics, and smaller organizations.</p>
 			</div>
 		</div>
 	</section>
